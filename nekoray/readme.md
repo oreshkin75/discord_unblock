@@ -83,7 +83,7 @@ __Перед запуском TUN режима нужно прописать д�
 В поле `Прокси-Домен` укажите `geosite:discord`. 
 В поле `Outbound по-умолчанию` выберите `bypass` и  нажмите `OK`.
 
-![](media\nekoray_editSetting_add_Domain_geosite.png)
+![media\nekoray_editSetting_add_Domain_geosite.png](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/nekoray/media/nekoray_editSetting_add_Domain_geosite.png)
 
 3. __Использование процессов__
 
