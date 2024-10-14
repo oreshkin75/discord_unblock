@@ -9,7 +9,7 @@
 
 Нажмите на "три точки" и выберите русский. После чего нужно перезапустить клиент.
 
-![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_main_1.jpg)
+![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_main_1.jpg)
 
 ### Настройка подписки
 
@@ -21,9 +21,9 @@
 4. Подтверждаем.
 
 #### Тоже самое наглядно
-1. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_main_2.jpg)
-2. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_main_3.jpg)
-3. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_main_4.jpg)
+1. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_main_2.jpg)
+2. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_main_3.jpg)
+3. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_main_4.jpg)
 
 ### Настройка маршрутизации
 
@@ -40,11 +40,11 @@
 
 #### Тоже самое наглядно
 
-1. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_main_5.jpg)
-2. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_main_6.jpg)
-3. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_main_7.jpg)
-4. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_main_8.jpg)
-5. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_main_9.jpg)
+1. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_main_5.jpg)
+2. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_main_6.jpg)
+3. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_main_7.jpg)
+4. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_main_8.jpg)
+5. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_main_9.jpg)
 ## Настройка Discord
 
 1. Кликаем на "Настройки" ->> "Настройки параметров"
@@ -105,14 +105,14 @@
 ```
 #### Тоже самое наглядно
 
-1. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_discord_1.jpg)
-2. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_discord_2.jpg)
-3. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_discord_3.jpg)
-4. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_discord_4.jpg)
-5. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_discord_5.jpg)
-6. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_discord_6.jpg)
+1. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_discord_1.jpg)
+2. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_discord_2.jpg)
+3. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_discord_3.jpg)
+4. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_discord_4.jpg)
+5. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_discord_5.jpg)
+6. ![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_discord_6.jpg)
 ## Опционально
 
 #### Для блокировки рекламы можно добавить это правило
 
-![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_additional_1.jpg)
+![](https://github.com/oreshkin75/discord_unblock/blob/df683b8af80ee03bd0f61490fcd34787611f6fef/v2rayN/media/v2ray_additional_1.jpg)
