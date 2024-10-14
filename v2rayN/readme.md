@@ -58,6 +58,51 @@
    2. В домены и ip вносим значения, которые указаны в файлах в [этом репозитории](https://github.com/GhostRooter0953/discord-voice-ips)
 6. Включаем режим VPN(ака Tun mode)
 
+##### JSON для настройки TunMode
+
+```json
+{
+  "servers": [
+    {
+      "tag": "remote",
+      "address": "https://1.1.1.1/dns-query",
+      "address_resolver": "dns_resolver",
+      "strategy": "ipv4_only",
+      "detour": "direct"
+    },
+    {
+      "tag": "dns_resolver",
+      "address": "8.8.8.8",
+      "detour": "direct"
+    },
+    {
+      "tag": "local",
+      "address": "192.168.49.254",
+      "strategy": "ipv4_only",
+      "detour": "direct"
+    },
+    {
+      "tag": "block",
+      "address": "rcode://success"
+    }
+  ],
+  "rules": [
+    {
+      "domain": [
+        "mobiledep.ru"
+      ],
+      "server": "local"
+    },
+    {
+      "rule_set": [
+        "geosite-category-ads-all"
+      ],
+      "server": "block"
+    }
+  ],
+  "final": "local"
+}
+```
 #### Тоже самое наглядно
 
 1. ![](https://github.com/oreshkin75/discord_unblock/blob/2a1865c09c3d5bdb896884246d52acb00260ee9b/v2rayN/media/v2ray_discord_1.jpg)
