@@ -6,10 +6,10 @@
 
 1. **Выбор файла с настройками**  
    1.1. Выберите вариант «Файл с настройками подключения», если у вас есть .conf файл:
-   ![конфигурация](https://github.com/oreshkin75/discord_unblock/blob/18457d7011fba678f5fd2979d4cb8136255b4955/AmneziaWG/media/awg-configure.png)
+   ![конфигурация](https://github.com/oreshkin75/discord_unblock/blob/main/AmneziaWG/media/awg-configure.png)
 
    1.2. Или вставьте строку-конфиг (например, если ключ был получен через бота Amnezia):
-   ![конфигурация](https://github.com/oreshkin75/discord_unblock/blob/45577825634194ef3cd6e2845312245ee513353f/AmneziaWG/media/awg-insert-key.png)
+   ![конфигурация](https://github.com/oreshkin75/discord_unblock/blob/main/AmneziaWG/media/awg-insert-key.png)
 
 2. **Настройка раздельного туннелирования**  
    Вы можете настроить раздельное туннелирование для определённых сайтов и приложений. Подробная инструкция доступна по [ссылке](https://docs.amnezia.org/ru/documentation/instructions/vpn-split-tunneling) (сайт заблокирован в РФ). Раздельное туннелирование позволяет направлять в VPN только нужный вам трафик. Для бесплатного ключа AmneziaVPN эта настройка не является обязательной.
