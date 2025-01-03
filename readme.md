@@ -17,6 +17,6 @@
 
 В зависимости от выбранного вами сервиса, вам должны были предоставить либо ключ для настройки прокси, либо конфиг. Ниже приведены гайды для настройки конкретных программ.
 
-1. [AmneziaWG](https://github.com/oreshkin75/discord_unblock/blob/e05426ce79dee323faf93ac5e44ff515a1d394f7/AmneziaWG/README.md), если только конфиг
-2. [nekoray](https://github.com/oreshkin75/discord_unblock/blob/e05426ce79dee323faf93ac5e44ff515a1d394f7/nekoray/readme.md), если только ключ
-3. [v2rayN](https://github.com/oreshkin75/discord_unblock/blob/e05426ce79dee323faf93ac5e44ff515a1d394f7/v2rayN/readme.md), если только ключ
+1. [AmneziaWG](https://github.com/oreshkin75/discord_unblock/blob/main/AmneziaWG/README.md), если только конфиг
+2. [nekoray](https://github.com/oreshkin75/discord_unblock/blob/main/nekoray/readme.md), если только ключ
+3. [v2rayN](https://github.com/oreshkin75/discord_unblock/blob/main/v2rayN/readme.md), если только ключ
